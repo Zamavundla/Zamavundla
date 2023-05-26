@@ -18,7 +18,7 @@ I've been learning to code for about 3 months now but have a bit of high school 
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
    
-### Socials
+*### Socials
                   
                   
  <p align="left">
