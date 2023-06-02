@@ -36,7 +36,7 @@ I've been learning to code for about 3 months now but have a bit of high school 
    <p align="left">
                           
 <a href="https://www.github.com/Zamavundla" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BasVGfHv6SjudqzNEQVp4gw%3D%3D" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p><b>My GitHub Stats</b>
+<a href="https://www.linkedin.com/in/zamavundla-samkelisiwe-duze-3b2098b5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p><b>My GitHub Stats</b>
  
 
 <a href="http://www.github.com/Zamavundla"><img src="https://github-readme-stats.vercel.app/api?username=Zamavundla&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="Zamavundla's GitHub stats" /></a>
