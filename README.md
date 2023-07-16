@@ -1,4 +1,4 @@
-# Hey there 👋: My name is Zamavundla Samkelisiwe Duze
+# Hey there! 👋 My name is Zamavundla Samkelisiwe Duze
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world!">
 
@@ -11,23 +11,25 @@
 Software Developer
 ------------------
 
-I've been learning to code for about 3 months now but have a bit of high school Information Technology background. Currently have a Diploma in Nautical Science but branching to the Tech side.
+I've been learning to code for about 6 months now but have a bit of a high school Information Technology background. Currently have a Diploma in Nautical Science but branching to the Tech side.
 
-*   🌍  I'm based in Cape Town, South Africa
-*   ✉️  You can contact me at [zsdouzee8@gmail.com](mailto:zsdouzee8@gmail.com)
-*   🧠  I'm learning JSDocs, Data Science
-*   🤝  I'm open to collaborating on Website building and Software Development of any kind
-*   ⚡  I'm a passionate person who likes to laugh a lot, wish to have a super power but don't know which one.
+*   🌍 I'm based in Cape Town, South Africa
+*   ✉️ You can contact me at [zsdouzee8@gmail.com](mailto:zsdouzee8@gmail.com)
+*   🧠 I'm learning Python, Java
+*   🤝 I'm open to collaborating on Website building and Software Development of any kind
+*   ⚡ I'm a passionate person who likes to laugh a lot, and wishes to have a superpower but doesn't know which one.
 
-<a href="https://www.github.com/Zamavundla" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/Zamavundla?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
+<a href="https://www.github.com/Zamavundla" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Zamavundla?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
                  
    * ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-</p>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<img src="https://skillicons.dev/icons?i=gherkin" alt="gherkin" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=lit" alt="lit" width="40" height="40"/></p>
                     
    
  * ### Socials
