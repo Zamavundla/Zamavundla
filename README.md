@@ -2,11 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world!">
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Zamavundla/count.svg" />
-</p>
-===================================================================================================================================================
+======================================================================================================================================================================
 
 Software Developer
 ------------------
@@ -15,7 +11,7 @@ I've been learning to code for about 6 months now but have a bit of a high schoo
 
 *   🌍 I'm based in Cape Town, South Africa
 *   ✉️ You can contact me at [zsdouzee8@gmail.com](mailto:zsdouzee8@gmail.com)
-*   🧠 I'm learning Python, Java
+*   🧠 I'm currently learning Python, Java
 *   🤝 I'm open to collaborating on Website building and Software Development of any kind
 *   ⚡ I'm a passionate person who likes to laugh a lot, and wishes to have a superpower but doesn't know which one.
 
