@@ -1,6 +1,10 @@
 # Hey there! 👋 My name is Zamavundla Samkelisiwe Duze
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world!">
+### Inspirational Code Quotes
+
+<iframe height="200" style="width: 100%;" scrolling="no" title="Inspirational Code Quotes" src="https://codepen.io/Zamavundla-Duze/embed/NWEBpmO?height=200&theme-id=dark&default-tab=html,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/Zamavundla-Duze/pen/NWEBpmO">Inspirational Code Quotes</a> by Zamavundla Samkelisiwe Duze (<a href="https://codepen.io/Zamavundla-Duze">@Zamavundla-Duze</a>) on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 ======================================================================================================================================================================
 
@@ -25,7 +29,9 @@ I've been learning to code for about 6 months now but have a bit of a high schoo
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <img src="https://skillicons.dev/icons?i=gherkin" alt="gherkin" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=lit" alt="lit" width="40" height="40"/></p>
+<img src="https://skillicons.dev/icons?i=lit" alt="lit" width="40" height="40"/>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/></a>
+<img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/></p>
                     
    
  * ### Socials
