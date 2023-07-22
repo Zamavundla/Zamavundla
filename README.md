@@ -1,10 +1,6 @@
 # Hey there! 👋 My name is Zamavundla Samkelisiwe Duze
 
-### Inspirational Code Quotes
-
-<iframe height="200" style="width: 100%;" scrolling="no" title="Inspirational Code Quotes" src="https://codepen.io/Zamavundla-Duze/embed/NWEBpmO?height=200&theme-id=dark&default-tab=html,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/Zamavundla-Duze/pen/NWEBpmO">Inspirational Code Quotes</a> by Zamavundla Samkelisiwe Duze (<a href="https://codepen.io/Zamavundla-Duze">@Zamavundla-Duze</a>) on <a href="https://codepen.io">CodePen</a>.
-</iframe>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mono&weight=900&size=40&pause=1000&color=27A6F7&background=FFFFFF00&center=true&vCenter=true&width=650&height=100&lines=Software+Developer.;Tech-enthusiast.;Part-time+bookworm.;Part-time+Gamer.;A+homebody+but+wish+to+be+outdoorsy%3F;Fan+of+simple+software.)](https://git.io/typing-svg)
 
 ======================================================================================================================================================================
 
