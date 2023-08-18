@@ -1,6 +1,6 @@
 # Hey there! 👋 My name is Zamavundla Samkelisiwe Duze
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mono&weight=900&size=40&pause=1000&color=27A6F7&background=FFFFFF00&center=true&vCenter=true&width=650&height=100&lines=Software+Developer.;Tech-enthusiast.;Part-time+bookworm.;Part-time+Gamer.;A+homebody+but+wish+to+be+outdoorsy%3F;Fan+of+Software+Dev.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mono&weight=900&size=40&pause=1000&color=27A6F7&background=FFFFFF00&center=true&vCenter=true&width=650&height=100&lines=Software+Developer.;Tech-enthusiast.;Part-time+bookworm.;Part-time+Gamer.;A+Homebody+but+wish+to+be+outdoorsy%3F;Fan+of+Software+Dev.)](https://git.io/typing-svg)
 
 ======================================================================================================================================================================
 
